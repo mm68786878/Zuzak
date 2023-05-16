@@ -1,0 +1,4 @@
+uart.c:8:6:USART2_Init	3
+uart.c:80:9:USART_Read	2
+uart.c:88:6:USART_Write	4
+uart.c:102:6:USART_IRQHandler	8

@@ -1,0 +1,4 @@
+../Core/Src/uart.c:8:6:USART2_Init	24	static
+../Core/Src/uart.c:80:9:USART_Read	16	static
+../Core/Src/uart.c:88:6:USART_Write	32	static
+../Core/Src/uart.c:102:6:USART_IRQHandler	24	static
